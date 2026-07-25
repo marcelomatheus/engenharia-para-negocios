@@ -479,7 +479,7 @@ Cliente A ----\
 Cliente B ----/
 ```
 
-Conceitos envolvidos:
+Conceitos envolvidos
 
 * concorrência otimista;
 * locks;
