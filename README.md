@@ -570,7 +570,7 @@ Os exemplos não precisam ficar presos a uma única stack, mas podem compartilha
 * Redis;
 * SQLite para exemplos menores.
 
-## Mensageria
+## Mensageria (MQ)
 
 * RabbitMQ;
 * Apache Kafka;
