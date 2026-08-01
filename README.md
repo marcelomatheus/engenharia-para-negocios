@@ -691,7 +691,6 @@ Contribuições podem incluir:
 * novos cenários de negócio;
 * implementações alternativas;
 * correções;
-* testes;
 * diagramas;
 * documentação;
 * análise de trade-offs;
