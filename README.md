@@ -136,7 +136,7 @@ Um conteúdo sobre idempotência, por exemplo, não mostrará apenas um middlewa
 * o que devolver em uma repetição;
 * como lidar com requisições concorrentes;
 * por quanto tempo manter o registro;
-* quais métricas acompanhar.
+* quais métricas acompanhar
 
 ---
 
