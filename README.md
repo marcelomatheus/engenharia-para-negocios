@@ -4,7 +4,7 @@
 
 ### Engenharia de software aplicada a problemas reais
 
-Arquitetura, confiabilidade, consistência, mensageria e modelagem de domínios como **financeiro**, **comercial**, **e-commerce** e **plataformas SaaS**.
+Arquitetura, confiabilidade, consistência, mensageria e modelagem de domínios como **financeiro**, **comercial**, **e-commerce** e **plataformas SaaS** .
 
 </div>
 
